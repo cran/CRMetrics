@@ -1,8 +1,8 @@
-d3c7d91b42ad1c0eac116c42bee92c79 *DESCRIPTION
+40185063481b322eb29b9eabc15d58f8 *DESCRIPTION
 dcaeb8e285f912c97ccb0dba866add14 *NAMESPACE
-c1195afa495c5cbe0dac15ab6bf005d7 *NEWS.md
-3f956d97e1b81239c9e9140a00dab6c4 *R/CRMetrics.R
-dd05778f64cf1a1530d81f06286ade87 *R/inner_functions.R
+1a7fb0b0d0f92267117b746cf3314302 *NEWS.md
+c2254394ab64a7ee39f46b1d154ae894 *R/CRMetrics.R
+f323b9bee8e0e68f5dbeb7fa12423386 *R/inner_functions.R
 6998c08e2c074ef07e4c66267f92da46 *README.md
 a6b3d9800d879f8f863b0885eda58a6a *inst/docs/CRmetrics_logo.png
 725b6d53cf538681f415e26d57b5d03a *inst/docs/walkthrough.Rmd
